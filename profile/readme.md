@@ -1,6 +1,12 @@
+![9oormthon-Univ](https://github.com/9oormthon-univ/.github/assets/65286685/af94fbfb-817c-4f2f-a4e2-5c0318e3b88c)
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=9oormthon_univ.&fontSize=56" /></div>
-<div align="center">
-:raising_hand: 안녕하세여! 구름톤 유니브입니다! :raising_hand:
-  </div>
-<br>
+사계절, 구름과 함께 <br/>
+being all seasons with goorm <br/> <br/>
+
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9oormthon-univ&count_bg=%2385ADFD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Static Badge](https://img.shields.io/badge/9oormthon-Univ?style=flat-square&link=https%3A%2F%2F9oormthon.university%2F)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=9oormthonuniv.official/)](9oormthonuniv.official)
+[![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:9oormthonuniv.official@gmail.com)](mailto:9oormthonuniv.official@gmail.com)
+</div>
