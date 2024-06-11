@@ -1,4 +1,5 @@
-![9oormthon-Univ](https://github.com/9oormthon-univ/.github/assets/65286685/af94fbfb-817c-4f2f-a4e2-5c0318e3b88c)
+
+![구카유_가로배너](https://github.com/9oormthon-univ/.github/assets/78739194/09f1a780-35ba-4a98-8310-7509aad65d7d)
 
 <div align="center">
 사계절, 구름과 함께 <br/>
